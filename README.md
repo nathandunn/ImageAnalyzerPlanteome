@@ -4,11 +4,9 @@ Test for an analysis workflow
 
 Install pipenv with python 2 and run (3 doesn't work with tensorflow)
 
-    pipenv --python 2
+    pipenv --python 3
     pipenv install 
-    pipenv run python FilterImage.py 
-    
-    
+    pipenv run python ImageAnalyzer.py
     
 
 
